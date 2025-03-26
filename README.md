@@ -2,6 +2,8 @@
 
 IPinfo是一个轻量级的命令行工具，使用curl请求ipinfo.io API来快速查询IP地址的详细信息。本工具对ipinfo.io的数据进行格式化处理，以简洁易读的方式呈现，支持macOS和Linux系统。
 
+一键部署请移步：https://github.com/wanglinkaik/easyipinfo
+
 ## 功能特点
 
 - 基于curl ipinfo.io API进行IP信息查询
